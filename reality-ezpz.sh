@@ -47,7 +47,7 @@ image[python]="python:3.11-alpine"
 image[wgcf]="virb3/wgcf:2.2.18"
 
 defaults[transport]=tcp
-defaults[domain]=www.google.com
+defaults[domain]=icloud.com
 defaults[port]=443
 defaults[safenet]=OFF
 defaults[warp]=OFF
